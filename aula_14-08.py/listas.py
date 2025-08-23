@@ -39,6 +39,7 @@ numeros2.append("42")
 frutas2 = frutas[:]
 frutas2 = frutas.copy()
 
+frutas = ["limão", "banana", "morango", "coco"]
 frutas.extend(["jaca", "mamao"]) #adiciona varios elementos ao final da lista
 frutas.index("morango")
 print(frutas.index("morango")) #mostra o índice do elemento que você quer
