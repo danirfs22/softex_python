@@ -3,6 +3,29 @@ for i in range(-1,-5, -1):
 
 for fruta in ["pera", "limao"]:
     print(fruta)
+
+frutas = ["manga", "morango", "limao"]
+for i in frutas:
+    print(i)
+
+soma=0
+for numero in range(15):
+    soma+=numero
+    print(soma)
+
+for numero in range(1,15,2):
+        print(numero)
+
+for numero in range(15,1,-1):
+        print(numero)
+
+nome = "Danielle"
+for letra in nome:
+     print(letra)
+
+     nome = "Danielle"
+for letra in range(len(nome)):
+     print(letra)
 '''
 count = 0
 while True:
