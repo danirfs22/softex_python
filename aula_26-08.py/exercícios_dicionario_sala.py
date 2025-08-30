@@ -64,8 +64,8 @@
 #     print(f"A capital de {estado} é {capital}")
 
 
-#Dado o dicionário abaixo, atualize o valor da chave "estoque" somando 10 unidades ao valor atual.
+#10 - Dado o dicionário abaixo, atualize o valor da chave "estoque" somando 10 unidades ao valor atual.
 
-produto = {"nome": "Teclado", "estoque": 15}
-produto.update({"estoque":15+10})
-print(produto)
+# produto = {"nome": "Teclado", "estoque": 15}
+# produto.update({"estoque":15+10})
+# print(produto)
