@@ -46,7 +46,6 @@ try:
     resultado = a/b
 except ZeroDivisionError as e:
     print(e)
-print(resultado)
 
   
       
